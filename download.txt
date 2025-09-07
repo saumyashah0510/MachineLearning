@@ -1,0 +1,2 @@
+tar -czf ~/workspace.tar.gz ~/work
+mv ~/workspace.tar.gz ~/work/workspace.tar.gz
